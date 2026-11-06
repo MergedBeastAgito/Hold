@@ -1,0 +1,9 @@
+[submodule "Agito"]
+path = Agito
+url = ssh://git@github.com/MergedBeastAgito/Agito.git
+ignore = all
+
+[submodule "Use"]
+path = Use
+url = ssh://git@github.com/MergedBeastAgito/Use.git
+ignore = all
