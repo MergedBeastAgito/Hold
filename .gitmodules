@@ -7,3 +7,6 @@ ignore = all
 path = Use
 url = ssh://git@github.com/MergedBeastAgito/Use.git
 ignore = all
+[submodule ".github"]
+	path = .github
+	url = ssh://git@github.com/MergedBeastAgito/.github.git
